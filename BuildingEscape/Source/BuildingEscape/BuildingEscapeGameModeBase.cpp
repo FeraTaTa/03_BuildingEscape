@@ -2,6 +2,6 @@
 
 #include "BuildingEscapeGameModeBase.h"
 
-
+#include "BuildingEscape.h"
 
 
